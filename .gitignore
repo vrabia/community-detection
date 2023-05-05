@@ -1,0 +1,5 @@
+.envrc
+.idea/
+__pycache__/**
+images/
+env/
